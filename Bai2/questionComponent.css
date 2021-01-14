@@ -1,0 +1,21 @@
+.row{
+    margin-bottom: 30px;
+    background-color: #2A2F32;
+    padding: 15px 0;
+    border-radius: 5px;
+}
+
+#ques{
+    text-align: center;
+    font-size: 25px;
+}
+
+.col{
+    background-color: #36B729;
+    border: 1px black solid;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0 13px;
+    font-size: 30px;
+}
